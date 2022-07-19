@@ -11,7 +11,7 @@ There are five icons for a user and a computer. The user will have the opportuni
 **Paper** defeats rock & spock\
 **Scissors** defeats paper & lizard\
 **Lizard** defeats paper & spock\
-**Spock** defeats scissors & rock\
+**Spock** defeats scissors & rock
 
 ## Key features
 
